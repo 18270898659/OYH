@@ -1,0 +1,40 @@
+{
+	"age" : 22,
+	"height" : 1.78,
+	"name" : "Denny",
+	"number_array" : 
+	[
+		1,
+		2,
+		3,
+		4
+	],
+	"object" : 
+	{
+		"someone" : "Kelly",
+		"sometime" : 2018,
+		"somewhere" : "city"
+	},
+	"object_array" : 
+	[
+		{
+			"string1" : "1-1",
+			"string2" : "1-2"
+		},
+		{
+			"string1" : "2-1",
+			"string2" : "2-2"
+		},
+		{
+			"string1" : "3-1",
+			"string2" : "3-2"
+		}
+	],
+	"play_football" : true,
+	"string_array" : 
+	[
+		"string01",
+		"string02",
+		"string03"
+	]
+}
